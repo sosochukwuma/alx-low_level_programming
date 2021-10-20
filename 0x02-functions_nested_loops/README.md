@@ -31,3 +31,5 @@
 * 102-fibonacci.c: wrote a program that prints the first 50 Fibonacci numbers, starting with 1 and 2
 
 * 103-fibonacci.c: wrote a program that prints the sum of all even-valued Fibonacci numbers below 4,000,000
+
+* 104-fibonacci.c: wrote a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, then a new line.
