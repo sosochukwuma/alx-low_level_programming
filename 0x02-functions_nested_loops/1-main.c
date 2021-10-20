@@ -1,4 +1,4 @@
-#include "putchar.h"
+#include "main.h"
 
 /**
  * main - to check the code for School students.
