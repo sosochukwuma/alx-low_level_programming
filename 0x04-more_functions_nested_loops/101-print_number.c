@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * print_number - prints an integer
+ * @n: holds the number to print
+ */
+
 void print_number(int n)
 {
 	if (n <= 9)
