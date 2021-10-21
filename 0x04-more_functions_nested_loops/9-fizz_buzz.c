@@ -11,19 +11,22 @@
 
 int main(void)
 {
-	int i = 1;
+	int i;
 
-	while (i <= 100)
+	for (i = 1; i <= 100; i += 1)
 	{
 		if (i % 3 == 0)
+		{
 			printf("Fizz");
-		if (i % 5 == 0)
+			if (i % 5 == 0)
+				printf("Buzz");
+		}
+		else if (i % 5 == 0)
 			printf("Buzz");
-		if ((i % 3 != 0) && (i % 5 != 0))
-			printf("%d", i);
-		if (i < 100)
+		else
+			printf("%i", i);
+		if (i != 100)
 			printf(" ");
-		i++;
 	}
 	printf("\n");
 	return (0);
