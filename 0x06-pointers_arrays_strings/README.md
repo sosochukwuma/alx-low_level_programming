@@ -1,7 +1,6 @@
 ## C - More pointers, arrays and strings
 
-* [holberton.h](./holberton.h): Header file containing prototypes for all
-functions written in the project.
+* main.h: Header file containing prototypes for all functions written in the project.
 
 * 0-strcat.c: wrote a function that concatenates two strings and also adds a terminating null byte at end.
 
@@ -15,7 +14,7 @@ functions written in the project.
 
 * 5-string_toupper.c: wrote a function that changes all lowercase letters of a string to uppercase.
 
-* 6-cap_string.c): wrote a function that capitalises all words of a string.
+* 6-cap_string.c: wrote a function that capitalises all words of a string.
 
 * 7-leet.c: wrote a function that encodes a string into 1337, without `switch` or ternary operations and using only one `if` and two loops. Replacing letters `a` and `A` with `4`, `e` and `E` with `3`, `o` and `O` with `0`, `t` and `T` with `7`, `l` and `L` with `1`.
 
@@ -23,7 +22,7 @@ functions written in the project.
 
 * 101-print_number.c: wrote a function that prints an integer without using `long`, arrays, pointers, or hard-coded special values.
 
-* 102-magic.c): wrote a program that prints `a[2] = 98` using pointer magic.
+* 102-magic.c: wrote a program that prints `a[2] = 98` using pointer magic.
 
 * 103-infinite_add.c: wrote a function that adds two numbers stored in strings to a buffer. With an assumption that strings are never empty and that numbers will always be positive, or 0 and that there are only digits stored in the number strings. And such that if result can be stored in the buffer, returns a pointer to the result, if not, returns `0`.
 
