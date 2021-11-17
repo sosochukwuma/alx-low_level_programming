@@ -1,4 +1,4 @@
-# C - Function pointers
+## C - Function pointers
 
 * function_pointers.h: a header file containing prototypes for all functions written for programs 0-2 of the project.
 
