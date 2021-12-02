@@ -1,6 +1,6 @@
 ## C - Singly linked lists
 
-* lists.h: Header file containing definitions and prototypes for all types and functions written for the project.
+* lists.h: a header file containing definitions and prototypes used for all types and functions written for the project.
 
 * 0-print_list.c: wrote a function that prints all the elements of a `list_t` list. If `str` is `NULL`, the function prints `[0] (nil)`.
 
