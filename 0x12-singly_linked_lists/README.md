@@ -1,6 +1,6 @@
 ## C - Singly linked lists
 
-* lists.h: Header file containing definitions and prototypes for all types and functions written for the project.
+* lists.h: a header file containing definitions and prototypes used for all types and functions written for the project.
 
 * 0-print_list.c: wrote a function that prints all the elements of a `list_t` list. If `str` is `NULL`, the function prints `[0] (nil)`.
 
@@ -18,4 +18,4 @@
 
 * 100-first.c: wrote a function that prints `You're beat! and yet, you must allow,\nI bore my house upon my back!\n` before the `main` unction is executed.
 
-* 101-hello_holberton.asm: 64-but assembly program that prints `Hello, Holberton` followed by a new line using only the `printf` function witout interrupts.
+* 101-hello_holberton.asm: wrote a 64-bit program in assembly that prints `Hello, Holberton` followed by a new line using only the `printf` function without interrupts.
