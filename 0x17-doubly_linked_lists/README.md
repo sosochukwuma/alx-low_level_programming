@@ -17,3 +17,11 @@
 * 7-insert_dnodeint.c: wrote a function that inserts a new node at a given position
 
 * 8-delete_dnodeint.c: wrote a function that deletes the node at index index of a `dlistint_t` linked list
+
+* 100-password: found the password for `crackme4`.
+
+* 102-result: found the largest palindrome made from the product of two 3-digit numbers.
+
+* 103-keygen.c: wrote a Keygen for `crackme5`.
+
+* lists.h: Header where are the prototypes of all functions  and libraries used.
